@@ -17,4 +17,5 @@ A collections of papers about VQA-CP datasets and their results
 ## Papers
 
 RUBi: https://arxiv.org/abs/1906.10169
+
 VGQA: https://arxiv.org/abs/2007.06198
