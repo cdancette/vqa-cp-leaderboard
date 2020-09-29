@@ -21,6 +21,8 @@ VQA-CP v2
 +-------+--------------+-----------+------------+------------+------------+------------+
 | RUBi_ | NeurIPS 2019 | 47.11     | 68.65      | 20.28      | 43.18      | No valset  |
 +-------+--------------+-----------+------------+------------+------------+------------+
+| GVQA_ | NeurIPS 2019 | 31.30     | 57.99      | 13.68      | 22.14      | No valset  |
++-------+--------------+-----------+------------+------------+------------+------------+
 
 .. [1] Retrained by [CSS]_
 
@@ -35,11 +37,13 @@ Papers
 
    <br />
 
-.. [RUBi] RUBi: Reducing Unimodal Biases in Visual Question Answering 
-    |br| https://arxiv.org/abs/1906.10169    
-.. [LMH] Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
-    |br| https://arxiv.org/abs/1909.03683
-.. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
-    |br| https://arxiv.org/abs/2007.06198
 .. [CSS] Counterfactual Samples Synthesizing for Robust Visual Question Answering 
     |br| https://arxiv.org/abs/2003.06576
+.. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
+    |br| https://arxiv.org/abs/2007.06198
+.. [LMH] Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
+    |br| https://arxiv.org/abs/1909.03683
+.. [RUBi] RUBi: Reducing Unimodal Biases in Visual Question Answering 
+    |br| https://arxiv.org/abs/1906.10169    
+.. [GVQA] Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
+    |br| https://arxiv.org/abs/1712.00377
