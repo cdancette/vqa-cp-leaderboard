@@ -9,9 +9,6 @@ A collections of papers about VQA-CP datasets and their results
 VQA-CP v2
 ***********
 
- External hyperlinks, like Python_. Python_ is a famous
-
-.. _Python: http://www.python.org/ 
 
 +-------+--------------+-----------+------------+------------+------------+------------+
 | Name  |  Conference  |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
@@ -46,5 +43,3 @@ Papers
     |br| https://arxiv.org/abs/2007.06198
 .. [CSS] Counterfactual Samples Synthesizing for Robust Visual Question Answering 
     |br| https://arxiv.org/abs/2003.06576
-
-.. target-notes::
