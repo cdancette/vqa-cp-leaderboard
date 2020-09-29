@@ -6,12 +6,14 @@ A collections of papers about VQA-CP datasets and their results
 
 ### VQA-CP v2
 
-| Name     |      Conference    |  All  | Yes/No | Numbers |  Other | Validation  |
-|----------|:------------------:|:----: |:------:|:-------:|:------:|:-----------:|
-| RUBi     |  NeurIPS 2019      | 47.11 | 68.65  | 20.28   | 43.18  | No valset   |
-| LMH      |                    |       |        |         |        | |
-| CSS      |  CVPR 2020         | 58.95 | 84.37  | 49.42   | 48.21  | No valset
-| VGQE     |  ECCV 2020         | 50.11 | 66.35  | 27.08   | 46.77  | No valset   |
+| Name     |      Conference    |  All      | Yes/No     | Numbers     |  Other    | Validation  |
+|----------|:------------------:|:----:     |:------:    |:-------:    |:------:   |:-----------:|
+| VGQE     |  ECCV 2020         |   50.11   |   66.35    |   27.08     |   46.77   | No valset   |
+| CSS      |  CVPR 2020         | **58.95** |   84.37    |   49.42     |   48.21   | No valset
+| LMH      |  EMNLP 2019        |   52.05   |            |             |           |             |
+| RUBi     |  NeurIPS 2019      |   47.11   |   68.65    |   20.28     |   43.18   | No valset   |
+
+
 
 
 ### VQA-CP v1
