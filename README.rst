@@ -25,7 +25,7 @@ VQA-CP v2
 | RUBi_ | NeurIPS 2019 | 47.11     | 68.65      | 20.28      | 43.18      | No valset  |
 +-------+--------------+-----------+------------+------------+------------+------------+
 
-.. [1] Retrained by CSS_
+.. [1] Retrained by [CSS]_
 
 
 VQA-CP v1
@@ -34,7 +34,17 @@ VQA-CP v1
 Papers
 ------
 
-.. [RUBi] RUBi: Reducing Unimodal Biases in Visual Question Answering (https://arxiv.org/abs/1906.10169)
-.. [LMH] Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases (https://arxiv.org/abs/1909.03683)
-.. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder (https://arxiv.org/abs/2007.06198)
-.. [CSS] Counterfactual Samples Synthesizing for Robust Visual Question Answering (https://arxiv.org/abs/2003.06576)
+.. |br| raw:: html
+
+   <br />
+
+.. [RUBi] RUBi: Reducing Unimodal Biases in Visual Question Answering 
+    |br| https://arxiv.org/abs/1906.10169    
+.. [LMH] Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
+    |br| https://arxiv.org/abs/1909.03683
+.. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
+    |br| https://arxiv.org/abs/2007.06198
+.. [CSS] Counterfactual Samples Synthesizing for Robust Visual Question Answering 
+    |br| https://arxiv.org/abs/2003.06576
+
+.. target-notes::
