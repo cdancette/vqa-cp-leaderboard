@@ -67,9 +67,8 @@ Papers
 .. [GVQA] Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
     |br| https://arxiv.org/abs/1712.00377
 
-
-.. _example: 
-
-Hello for eaxmple
-
-
++--------------+-----+
+| .. _example: |     |
+|              |     |
+| Hello        |     |
++--------------+-----+
