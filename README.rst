@@ -76,6 +76,7 @@ _`RUBi`
 .. raw:: html
     
     <details><summary>Summary</summary>
+
         During training : Ensembling with a question-only model that will learn the biases, and let the main VQA model learn
         useful behaviours.
 
