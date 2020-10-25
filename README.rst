@@ -73,15 +73,15 @@ _`RUBi`
     | Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh
     | https://arxiv.org/abs/1906.10169  
 
-    .. raw:: html
-        
-        <details><summary>Summary</summary>        
-            <p>During training : Ensembling with a question-only model that will learn the biases, and let the main VQA model learn
-            useful behaviours.</p>
+        .. raw:: html
+            
+            <details><summary>Summary</summary>        
+                <p>During training : Ensembling with a question-only model that will learn the biases, and let the main VQA model learn
+                useful behaviours.</p>
 
-            <p>During testing: We remove the question-only model, and keep only the VQA model.</p>
-        
-        </details>
+                <p>During testing: We remove the question-only model, and keep only the VQA model.</p>
+            
+            </details>
   
 _`HINT`
     | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded
