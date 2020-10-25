@@ -5,7 +5,6 @@ VQA-CP  Leaderboard
 A collections of papers about VQA-CP datasets and their results
 
 
-
 VQA-CP v2
 ***********
 
@@ -35,21 +34,26 @@ VQA-CP v2
 
 This is an example_.
 
-.. [1] Retrained by [CSS]_
-
+.. [1] Retrained by CSS_
 
 VQA-CP v1
 *********
 
 Papers
-------
+******
+
 
 .. |br| raw:: html
 
    <br />
 
-.. [GradSup] Learning what makes a difference from counterfactual examples and gradient supervision
-    |br| https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
+
+
+| _`GradSup`
+|   Learning what makes a difference from counterfactual examples and gradient supervision
+|   https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
+|   Author 1, Author2
+
 .. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
     |br| https://arxiv.org/abs/2007.06198
 .. [CSS] Counterfactual Samples Synthesizing for Robust Visual Question Answering 
@@ -67,8 +71,3 @@ Papers
 .. [GVQA] Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
     |br| https://arxiv.org/abs/1712.00377
 
-+--------------+-----+
-| .. _example: |     |
-|              |     |
-| Hello        |     |
-+--------------+-----+
