@@ -50,9 +50,9 @@ Papers
 
 
 | _`GradSup`
-|   Learning what makes a difference from counterfactual examples and gradient supervision
-|   https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
-|   Author 1, Author2
+|    Learning what makes a difference from counterfactual examples and gradient supervision
+|    https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
+|    Author 1, Author2
 
 .. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
     |br| https://arxiv.org/abs/2007.06198
