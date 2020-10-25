@@ -5,10 +5,6 @@ VQA-CP  Leaderboard
 A collections of papers about VQA-CP datasets and their results
 
 
-This is a test of line blocks:
-
-   Test Hello
-
 VQA-CP v2
 ***********
 
