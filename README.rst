@@ -51,6 +51,7 @@ _`GradSup`
     | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** 
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel
     | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
+
 _`VGQE`
     | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder  -  **ECCV 2020** 
     | Gouthaman KV, Anurag Mittal
@@ -70,7 +71,18 @@ _`LMH`
 _`RUBi`
     | RUBi: Reducing Unimodal Biases in Visual Question Answering  -  **NeurIPS 2019** 
     | Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh
-    | https://arxiv.org/abs/1906.10169    
+    | https://arxiv.org/abs/1906.10169  
+
+.. raw:: html
+    
+    <details><summary>Summary</summary>
+        During training : Ensembling with a question-only model that will learn the biases, and let the main VQA model learn
+        useful behaviours.
+
+        During testing: We remove the question-only model, and keep only the VQA model.
+    
+    </details>
+  
 _`HINT`
     | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded
     | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh
