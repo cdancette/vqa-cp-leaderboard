@@ -75,14 +75,11 @@ _`RUBi`
 
 .. raw:: html
     
-    <details><summary>Summary</summary>
-        
-        ## Test
-        
-        During training : Ensembling with a question-only model that will learn the biases, and let the main VQA model learn
-        useful behaviours.
+    <details><summary>Summary</summary>        
+        <p>During training : Ensembling with a question-only model that will learn the biases, and let the main VQA model learn
+        useful behaviours.</p>
 
-        During testing: We remove the question-only model, and keep only the VQA model.
+        <p>During testing: We remove the question-only model, and keep only the VQA model.</p>
     
     </details>
   
