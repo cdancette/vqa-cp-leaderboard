@@ -22,7 +22,7 @@ VQA-CP v2
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | CSS_         | CVPR 2020     | **58.95** | **84.37**  | **49.42**  | **48.21**  | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
-| Unshuffling_ | preprint 2020 | 42.39     | 47.72      | 14.43      | 47.24      | Valset     |
+| Unshuffling_ | Preprint 2020 | 42.39     | 47.72      | 14.43      | 47.24      | Valset     |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | LMH_         | EMNLP 2019    | 52.05     | 69.81 [1]_ | 44.46 [1]_ | 45.54 [1]_ | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
@@ -53,7 +53,7 @@ Papers
 
 
 _`GradSup`
-    | Learning what makes a difference from counterfactual examples and gradient supervision - ECCV 2020
+    | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** 
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel
     | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
 _`VGQE`
@@ -65,21 +65,27 @@ _`CSS`
     | Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang
     | https://arxiv.org/abs/2003.06576
 _`Unshuffling`
-    |  Unshuffling Data for Improved Generalization
+    |  Unshuffling Data for Improved Generalization -  **Preprint 2020** 
+    | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel
     | https://arxiv.org/abs/2002.11894
 _`LMH`
-    | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
+    | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases -  **EMNLP 2019** 
+    | Christopher Clark, Mark Yatskar, Luke Zettlemoyer
     | https://arxiv.org/abs/1909.03683
 _`RUBi`
-    | RUBi: Reducing Unimodal Biases in Visual Question Answering 
+    | RUBi: Reducing Unimodal Biases in Visual Question Answering  -  **NeurIPS 2019** 
+    | Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh
     | https://arxiv.org/abs/1906.10169    
 _`ActSeek`
-    | Actively Seeking and Learning from Live Data
+    | Actively Seeking and Learning from Live Data -  **CVPR 2019** 
+    | Damien Teney, Anton van den Hengel
     | https://arxiv.org/abs/1904.02865
 _`AdvReg`
-    | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization
+    | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization -  **NeurIPS 2018** 
+    | Sainandan Ramakrishnan, Aishwarya Agrawal, Stefan Lee
     | https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization.pdf
 _`GVQA`
-    | Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
+    | Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering -  **CVPR 2018** 
+    | Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi
     | https://arxiv.org/abs/1712.00377
 
