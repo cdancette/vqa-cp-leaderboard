@@ -65,7 +65,7 @@ _`Unshuffling`
     | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel
     | https://arxiv.org/abs/2002.11894
 
-        .. raw::html
+        .. raw:: html
 
             <details><summary>Summary</summary>
 
