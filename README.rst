@@ -68,6 +68,5 @@ Papers
     |br| https://arxiv.org/abs/1712.00377
 
 
-
-.. example_:
-Hello
+.. _example: 
+Hello for eaxmple
