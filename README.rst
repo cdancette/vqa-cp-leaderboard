@@ -70,5 +70,4 @@ Papers
 
 
 .. example_:
-
 Hello
