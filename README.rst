@@ -13,6 +13,8 @@ VQA-CP v2
 +-------+--------------+-----------+------------+------------+------------+------------+
 | Name  |  Conference  |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
 +=======+==============+===========+============+============+============+============+
+| GradSup_ | ECCV 2020 | 46.8      | 64.5       |   15.3     |  45.9      |  Valset    |
++-------+--------------+-----------+------------+------------+------------+------------+
 | VGQE_ | ECCV 2020    | 50.11     | 66.35      | 27.08      | 46.77      | No valset  |
 +-------+--------------+-----------+------------+------------+------------+------------+
 | CSS_  | CVPR 2020    | **58.95** | 84.37      | 49.42      | 48.21      | No valset  |
@@ -47,3 +49,5 @@ Papers
     |br| https://arxiv.org/abs/1906.10169    
 .. [GVQA] Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
     |br| https://arxiv.org/abs/1712.00377
+.. [GradSup] Learning what makes a difference from counterfactual examples and gradient supervision
+    |br| https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
