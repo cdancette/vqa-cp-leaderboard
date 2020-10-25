@@ -69,6 +69,6 @@ Papers
 
 
 
-example_:
+.. example_:
 
 Hello
