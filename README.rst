@@ -47,20 +47,22 @@ Papers
 ******
 
 
-.. |br| raw:: html
+.. .. |br| raw:: html
 
-   <br />
+..    <br />
 
 
 _`GradSup`
-    | Learning what makes a difference from counterfactual examples and gradient supervision
+    | Learning what makes a difference from counterfactual examples and gradient supervision - ECCV 2020
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel
     | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
 _`VGQE`
-    | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
+    | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder  -  **ECCV 2020** 
+    | Gouthaman KV, Anurag Mittal
     | https://arxiv.org/abs/2007.06198
 _`CSS`
-    | Counterfactual Samples Synthesizing for Robust Visual Question Answering 
+    | Counterfactual Samples Synthesizing for Robust Visual Question Answering -  **CVPR 2020** 
+    | Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang
     | https://arxiv.org/abs/2003.06576
 _`Unshuffling`
     |  Unshuffling Data for Improved Generalization
