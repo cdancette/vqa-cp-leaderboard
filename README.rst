@@ -64,6 +64,18 @@ _`Unshuffling`
     |  Unshuffling Data for Improved Generalization -  **Preprint 2020** 
     | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel
     | https://arxiv.org/abs/2002.11894
+
+        .. raw::html
+
+            <details><summary>Summary</summary>
+
+            Inspired by Invariant Risk Minimization (Arjovskyet al.).
+            They make use of two training sets with different
+            biases to learn a more robust classifier (that will perform
+            better on OOD data). 
+
+            </details>
+
 _`LMH`
     | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases -  **EMNLP 2019** 
     | Christopher Clark, Mark Yatskar, Luke Zettlemoyer
