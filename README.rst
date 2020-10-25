@@ -56,21 +56,28 @@ _`GradSup`
     | Learning what makes a difference from counterfactual examples and gradient supervision
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel
     | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
-
-.. [VGQE] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
-    |br| https://arxiv.org/abs/2007.06198
-.. [CSS] Counterfactual Samples Synthesizing for Robust Visual Question Answering 
-    |br| https://arxiv.org/abs/2003.06576
-.. [Unshuffling]  Unshuffling Data for Improved Generalization
-    |br| https://arxiv.org/abs/2002.11894
-.. [LMH] Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
-    |br| https://arxiv.org/abs/1909.03683
-.. [RUBi] RUBi: Reducing Unimodal Biases in Visual Question Answering 
-    |br| https://arxiv.org/abs/1906.10169    
-.. [ActSeek] Actively Seeking and Learning from Live Data
-    |br| https://arxiv.org/abs/1904.02865
-.. [AdvReg] Overcoming Language Priors in Visual Question Answering with Adversarial Regularization
-    |br| https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization.pdf
-.. [GVQA] Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
-    |br| https://arxiv.org/abs/1712.00377
+_`VGQE`
+    | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder 
+    | https://arxiv.org/abs/2007.06198
+_`CSS`
+    | Counterfactual Samples Synthesizing for Robust Visual Question Answering 
+    | https://arxiv.org/abs/2003.06576
+_`Unshuffling`
+    |  Unshuffling Data for Improved Generalization
+    | https://arxiv.org/abs/2002.11894
+_`LMH`
+    | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
+    | https://arxiv.org/abs/1909.03683
+_`RUBi`
+    | RUBi: Reducing Unimodal Biases in Visual Question Answering 
+    | https://arxiv.org/abs/1906.10169    
+_`ActSeek`
+    | Actively Seeking and Learning from Live Data
+    | https://arxiv.org/abs/1904.02865
+_`AdvReg`
+    | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization
+    | https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization.pdf
+_`GVQA`
+    | Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
+    | https://arxiv.org/abs/1712.00377
 
