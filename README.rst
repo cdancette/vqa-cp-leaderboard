@@ -86,8 +86,10 @@ _`CF-VQA`
 
             <details><summary>Summary</summary>
 
-            They formalize the ensembling framwork from RUBi_ and LMH_ using
-            the causality framework.
+        They formalize the ensembling framwork from RUBi_ and LMH_ using
+        the causality framework.
+
+        .. raw:: html
 
             </details>
 
