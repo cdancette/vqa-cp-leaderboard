@@ -8,7 +8,6 @@ A collections of papers about VQA-CP datasets and their results
 VQA-CP v2
 ***********
 
-
 +--------------+---------------+-----------+------------+------------+------------+------------+
 |     Name     |  Conference   |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
 +==============+===============+===========+============+============+============+============+
@@ -19,6 +18,8 @@ VQA-CP v2
 | CSS_         | CVPR 2020     | **58.95** | **84.37**  | **49.42**  | **48.21**  | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | Unshuffling_ | Preprint 2020 | 42.39     | 47.72      | 14.43      | 47.24      | **Valset** |
++--------------+---------------+-----------+------------+------------+------------+------------+
+| CF-VQA_      | Preprint 2020 | 57.18     | 80.18      | 45.62      | 48.31      | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | LMH_         | EMNLP 2019    | 52.05     | 69.81 [1]_ | 44.46 [1]_ | 45.54 [1]_ | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
@@ -73,6 +74,20 @@ _`Unshuffling`
             They make use of two training sets with different
             biases to learn a more robust classifier (that will perform
             better on OOD data). 
+
+            </details>
+
+_`CF-VQA`
+    | Counterfactual VQA: A Cause-Effect Look at Language Bias
+    | Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, Ji-Rong Wen
+    | https://arxiv.org/abs/2006.04315v2
+
+        .. raw:: html
+
+            <details><summary>Summary</summary>
+
+            They formalize the ensembling framwork from RUBi_ and LMH_ using
+            the causality framework.
 
             </details>
 
