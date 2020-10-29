@@ -25,6 +25,8 @@ VQA-CP v2
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | RUBi_        | NeurIPS 2019  | 47.11     | 68.65      | 20.28      | 43.18      | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
+| SCR_ [2]_    | NeurIPS 2019  | 49.45     | 72.36      | 10.93      | 48.02      | No valset  |
++--------------+---------------+-----------+------------+------------+------------+------------+
 | HINT_ [2]_   | ICCV 2019     | 46.73     | 67.27      | 10.61      | 45.88      | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | ActSeek_     | CVPR 2019     | 46.00     | 58.24      | 29.49      | 44.33      | **ValSet** |
@@ -112,6 +114,11 @@ _`RUBi`
             
             </details>
   
+_`SCR` 
+    | Self-Critical Reasoning for Robust Visual Question Answering
+    | Jialin Wu, Raymond J. Mooney
+    | https://arxiv.org/abs/1905.09998
+    | 
 _`HINT`
     | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded
     | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh
