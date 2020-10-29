@@ -2,7 +2,15 @@
 VQA-CP  Leaderboard
 ===================
 
-A collections of papers about VQA-CP datasets and their results
+A collections of papers about VQA-CP datasets and their results.
+
+We mention the presence or absence of a validation set, because for out-of-distribution 
+datasets, it is very important to find hyperparameters and do early-stopping on a validation
+set that has the same distribution as the training set. Otherwise, there is a risk 
+of overfitting the testing set, and its biases, which defeats the point of the VQA-CP dataset.
+
+This is why we highly recommand for future work that they build a validation set from a part of 
+training set.
 
 
 VQA-CP v2
