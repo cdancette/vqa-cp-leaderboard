@@ -9,7 +9,7 @@ datasets, it is very important to find hyperparameters and do early-stopping on 
 set that has the same distribution as the training set. Otherwise, there is a risk 
 of overfitting the testing set, and its biases, which defeats the point of the VQA-CP dataset.
 
-This is why we highly recommand for future work that they build a validation set from a part of 
+This is why we  **highly recommand**  for future work that they build a  **validation set**  from a part of 
 training set.
 
 
