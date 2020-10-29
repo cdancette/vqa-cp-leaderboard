@@ -80,7 +80,7 @@ _`Unshuffling`
             </details>
 
 _`CF-VQA`
-    | Counterfactual VQA: A Cause-Effect Look at Language Bias
+    | Counterfactual VQA: A Cause-Effect Look at Language Bias  -  **Preprint 2020** 
     | Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, Ji-Rong Wen
     | https://arxiv.org/abs/2006.04315v2
 
@@ -115,12 +115,12 @@ _`RUBi`
             </details>
   
 _`SCR` 
-    | Self-Critical Reasoning for Robust Visual Question Answering
+    | Self-Critical Reasoning for Robust Visual Question Answering -  **NeurIPS 2019** 
     | Jialin Wu, Raymond J. Mooney
     | https://arxiv.org/abs/1905.09998
     | 
 _`HINT`
-    | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded
+    | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded -  **ICCV 2019** 
     | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh
     | https://arxiv.org/abs/1902.03751
 _`ActSeek`
