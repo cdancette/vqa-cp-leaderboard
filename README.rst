@@ -3,7 +3,7 @@ VQA-CP  Leaderboard
 ===================
 
 A collections of papers about the VQA-CP dataset and their results.
-[VQA-CP](https://arxiv.org/abs/1712.00377) is an out-of-distribution dataset for Visual Question Answering,
+VQA-CP_ is an out-of-distribution dataset for Visual Question Answering,
 which is designed to penalize models that rely on question biases to give an answer.
 
 Notes:
@@ -12,7 +12,7 @@ This leaderboard is only made as a reference of all bias-reduction methods that 
 - We mention the presence or absence of a validation set, because for out-of-distribution 
 datasets, it is very important to find hyperparameters and do early-stopping on a validation
 set that has the same distribution as the training set. Otherwise, there is a risk 
-of overfitting the testing set, and its biases, which defeats the point of the VQA-CP dataset.
+of overfitting the testing set and its biases, which defeats the point of the VQA-CP dataset.
 This is why we  **highly recommand**  for future work that they build a  **validation set**  from a part of 
 training set.
 
@@ -29,7 +29,7 @@ VQA-CP v2
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | CSS_         | CVPR 2020     | **58.95** | **84.37**  | **49.42**  | **48.21**  | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
-| Semantic_    | Preprint 2020 | 47.5      |     -      |     -      |      -      |    -      |
+| Semantic_    | Preprint 2020 | 47.5      |            |            |            |            |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | Unshuffling_ | Preprint 2020 | 42.39     | 47.72      | 14.43      | 47.24      | **Valset** |
 +--------------+---------------+-----------+------------+------------+------------+------------+
@@ -152,3 +152,6 @@ _`GVQA`
     | Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi
     | https://arxiv.org/abs/1712.00377
 
+
+
+.. _VQA-CP: https://arxiv.org/abs/1712.00377
