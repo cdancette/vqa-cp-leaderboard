@@ -27,6 +27,8 @@ VQA-CP v2
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | CSS_         | CVPR 2020     | **58.95** | **84.37**  | **49.42**  | **48.21**  | No valset  |
 +--------------+---------------+-----------+------------+------------+------------+------------+
+| Semantic_    | Preprint 2020 | 47.5      |            |            |            |            |
++--------------+---------------+-----------+------------+------------+------------+------------+
 | Unshuffling_ | Preprint 2020 | 42.39     | 47.72      | 14.43      | 47.24      | **Valset** |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | CF-VQA_      | Preprint 2020 | 57.18     | 80.18      | 45.62      | 48.31      | No valset  |
@@ -72,6 +74,10 @@ _`CSS`
     | Counterfactual Samples Synthesizing for Robust Visual Question Answering -  **CVPR 2020** 
     | Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang
     | https://arxiv.org/abs/2003.06576
+_`Semantic`
+    | Estimating semantic structure for the VQA answer space  -  **Preprint 2020**
+    | Corentin Kervadec, Grigory Antipov, Moez Baccouche, Christian Wolf
+    | https://arxiv.org/abs/2006.05726
 _`Unshuffling`
     |  Unshuffling Data for Improved Generalization -  **Preprint 2020** 
     | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel
