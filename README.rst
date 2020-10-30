@@ -7,14 +7,19 @@ VQA-CP_ is an out-of-distribution dataset for Visual Question Answering,
 which is designed to penalize models that rely on question biases to give an answer.
 
 Notes:
-- All reported papers do not use the same baseline architectures, so the scores might not be directly comparable. 
-This leaderboard is only made as a reference of all bias-reduction methods that were tested on VQA-CP.
-- We mention the presence or absence of a validation set, because for out-of-distribution 
-datasets, it is very important to find hyperparameters and do early-stopping on a validation
-set that has the same distribution as the training set. Otherwise, there is a risk 
-of overfitting the testing set and its biases, which defeats the point of the VQA-CP dataset.
-This is why we  **highly recommand**  for future work that they build a  **validation set**  from a part of 
-training set.
+
+- All reported papers do not use the same baseline architectures, 
+  so the scores might not be directly comparable. This leaderboard 
+  is only made as a reference of all bias-reduction methods that 
+  were tested on VQA-CP.
+
+- We mention the presence or absence of a validation set, because 
+  for out-of-distribution datasets, it is very important to find hyperparameters 
+  and do early-stopping on a validation set that has the same distribution as 
+  the training set. Otherwise, there is a risk of overfitting the testing set 
+  and its biases, which defeats the point of the VQA-CP dataset. This is why we 
+  **highly recommand**  for future work that they build a  **validation set**  
+  from a part of training set.
 
 
 VQA-CP v2
