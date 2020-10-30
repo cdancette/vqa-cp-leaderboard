@@ -62,7 +62,6 @@ _`GradSup`
     | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** 
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel
     | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf
-
 _`VGQE`
     | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder  -  **ECCV 2020** 
     | Gouthaman KV, Anurag Mittal
@@ -121,12 +120,11 @@ _`RUBi`
                 <p>During testing: We remove the question-only model, and keep only the VQA model.</p>
             
             </details>
-  
+
 _`SCR` 
     | Self-Critical Reasoning for Robust Visual Question Answering -  **NeurIPS 2019** 
     | Jialin Wu, Raymond J. Mooney
     | https://arxiv.org/abs/1905.09998
-    | 
 _`HINT`
     | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded -  **ICCV 2019** 
     | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh
