@@ -58,7 +58,7 @@ VQA-CP v2
 .. [1] Retrained by CSS_
 .. [2] Using additional information
 
-VQA-CP v1
+.. VQA-CP v1
 *********
 
 Papers
