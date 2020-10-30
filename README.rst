@@ -59,7 +59,7 @@ VQA-CP v2
 .. [2] Using additional information
 
 .. VQA-CP v1
-*********
+.. *********
 
 Papers
 ******
