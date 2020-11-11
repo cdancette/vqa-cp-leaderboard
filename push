@@ -1,0 +1,4 @@
+#!/bin/bash
+git add README.rst
+git commit -m "readme"
+git push origin master

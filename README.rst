@@ -28,6 +28,8 @@ VQA-CP v2
 +--------------+---------------+-----------+------------+------------+------------+------------+
 |     Name     |  Conference   |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
 +==============+===============+===========+============+============+============+============+
+| RMFE_        | NeurIPS 2020  | 54.55     | 74.03      | 49.16      | 45.82      |            |
++--------------+---------------+-----------+------------+------------+------------+------------+
 | GradSup_     | ECCV 2020     | 46.8      | 64.5       | 15.3       | 45.9       | **Valset** |
 +--------------+---------------+-----------+------------+------------+------------+------------+
 | VGQE_        | ECCV 2020     | 50.11     | 66.35      | 27.08      | 46.77      | No valset  |
@@ -69,6 +71,10 @@ Papers
 ..    <br />
 
 
+_`RMFE`
+    | Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies -  **NeurIPS 2020** 
+    | Itai Gat, Idan Schwartz, Alexander Schwing, Tamir Hazan
+    | https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html
 _`GradSup`
     | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** 
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel
