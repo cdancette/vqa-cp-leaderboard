@@ -28,7 +28,7 @@ VQA-CP v2
 +-----------------+---------------+-----------+------------+------------+------------+------------+
 |      Name       |  Conference   |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
 +=================+===============+===========+============+============+============+============+
-| CL_             | EMNLP 2020    | 59.18     | 86.99      | 49.89      | 47.16      | No valset  |
+| CL_             | EMNLP 2020    | **59.18** | **86.99**  | **49.89**  | 47.16      | No valset  |
 +-----------------+---------------+-----------+------------+------------+------------+------------+
 | RMFE_           | NeurIPS 2020  | 54.55     | 74.03      | 49.16      | 45.82      | No Valset  |
 +-----------------+---------------+-----------+------------+------------+------------+------------+
@@ -38,7 +38,7 @@ VQA-CP v2
 +-----------------+---------------+-----------+------------+------------+------------+------------+
 | VGQE_           | ECCV 2020     | 50.11     | 66.35      | 27.08      | 46.77      | No valset  |
 +-----------------+---------------+-----------+------------+------------+------------+------------+
-| CSS_            | CVPR 2020     | **58.95** | **84.37**  | **49.42**  | **48.21**  | No valset  |
+| CSS_            | CVPR 2020     | 58.95     | 84.37      | 49.42      | **48.21**  | No valset  |
 +-----------------+---------------+-----------+------------+------------+------------+------------+
 | Semantic_       | Preprint 2020 | 47.5      |            |            |            |            |
 +-----------------+---------------+-----------+------------+------------+------------+------------+
@@ -76,9 +76,9 @@ Papers
 
 
 _`CL`
-    | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering   -  **EMNLP 2020** 
-    | Zujie Liang, Weitao Jiang, Haifeng Hu, Jiaying Zhu
-    | https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf
+    | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering   -  **EMNLP 2020** |
+    | Zujie Liang, Weitao Jiang, Haifeng Hu, Jiaying Zhu                                                       |
+    | https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf                                                 |
 _`RMFE`
     | Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies -  **NeurIPS 2020** |
     | Itai Gat, Idan Schwartz, Alexander Schwing, Tamir Hazan                                                         |
