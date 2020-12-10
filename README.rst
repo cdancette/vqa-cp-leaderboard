@@ -28,6 +28,8 @@ VQA-CP v2
 +-----------------+---------------+-----------+------------+------------+------------+------------+
 |      Name       |  Conference   |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
 +=================+===============+===========+============+============+============+============+
+| MUTANT_          | EMNLP 2020    |  61.72 | 88.90|  49.68 | 50.78 | No valset                 |
++-----------------+---------------+-----------+------------+------------+------------+------------+
 | CL_             | EMNLP 2020    | **59.18** | **86.99**  | **49.89**  | 47.16      | No valset  |
 +-----------------+---------------+-----------+------------+------------+------------+------------+
 | RMFE_           | NeurIPS 2020  | 54.55     | 74.03      | 49.16      | 45.82      | No Valset  |
@@ -75,38 +77,43 @@ Papers
 ..    <br />
 
 
+_`MUTANT`
+    | MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering -  **EMNLP 2020** 
+    | Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang
+    | https://www.aclweb.org/anthology/2020.emnlp-main.63/
+
 _`CL`
-    | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering   -  **EMNLP 2020** |
-    | Zujie Liang, Weitao Jiang, Haifeng Hu, Jiaying Zhu                                                       |
-    | https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf                                                 |
+    | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering   -  **EMNLP 2020** 
+    | Zujie Liang, Weitao Jiang, Haifeng Hu, Jiaying Zhu                                                       
+    | https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf                                                 
 _`RMFE`
-    | Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies -  **NeurIPS 2020** |
-    | Itai Gat, Idan Schwartz, Alexander Schwing, Tamir Hazan                                                         |
-    | https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html                   |
+    | Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies -  **NeurIPS 2020** 
+    | Itai Gat, Idan Schwartz, Alexander Schwing, Tamir Hazan                                                         
+    | https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html                   
 _`Loss-Rescaling`
-    | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** |
-    | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     |
-    | https://arxiv.org/abs/2010.16010                                                                      |
+    | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** 
+    | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
+    | https://arxiv.org/abs/2010.16010                                                                      
 _`GradSup`
-    | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** |
-    | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel                                                   |
-    | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf                                  |
+    | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** 
+    | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel                                                   
+    | https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf                                  
 _`VGQE`
-    | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder  -  **ECCV 2020** |
-    | Gouthaman KV, Anurag Mittal                                                                                     |
-    | https://arxiv.org/abs/2007.06198                                                                                |
+    | Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder  -  **ECCV 2020** 
+    | Gouthaman KV, Anurag Mittal                                                                                     
+    | https://arxiv.org/abs/2007.06198                                                                                
 _`CSS`
-    | Counterfactual Samples Synthesizing for Robust Visual Question Answering -  **CVPR 2020** |
-    | Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang                  |
-    | https://arxiv.org/abs/2003.06576                                                          |
+    | Counterfactual Samples Synthesizing for Robust Visual Question Answering -  **CVPR 2020** 
+    | Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang                  
+    | https://arxiv.org/abs/2003.06576                                                          
 _`Semantic`
-    | Estimating semantic structure for the VQA answer space  -  **Preprint 2020** |
-    | Corentin Kervadec, Grigory Antipov, Moez Baccouche, Christian Wolf           |
-    | https://arxiv.org/abs/2006.05726                                             |
+    | Estimating semantic structure for the VQA answer space  -  **Preprint 2020** 
+    | Corentin Kervadec, Grigory Antipov, Moez Baccouche, Christian Wolf           
+    | https://arxiv.org/abs/2006.05726                                             
 _`Unshuffling`
-    | Unshuffling Data for Improved Generalization -  **Preprint 2020** |
-    | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel              |
-    | https://arxiv.org/abs/2002.11894                                  |
+    | Unshuffling Data for Improved Generalization -  **Preprint 2020** 
+    | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel              
+    | https://arxiv.org/abs/2002.11894                                  
 
         .. raw:: html
 
@@ -120,9 +127,9 @@ _`Unshuffling`
             </details>
 
 _`CF-VQA`
-    | Counterfactual VQA: A Cause-Effect Look at Language Bias  -  **Preprint 2020** |
-    | Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, Ji-Rong Wen   |
-    | https://arxiv.org/abs/2006.04315v2                                             |
+    | Counterfactual VQA: A Cause-Effect Look at Language Bias  -  **Preprint 2020** 
+    | Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, Ji-Rong Wen   
+    | https://arxiv.org/abs/2006.04315v2                                             
 
         .. raw:: html
 
@@ -136,13 +143,13 @@ _`CF-VQA`
             </details>
 
 _`LMH`
-    | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases -  **EMNLP 2019** |
-    | Christopher Clark, Mark Yatskar, Luke Zettlemoyer                                                       |
-    | https://arxiv.org/abs/1909.03683                                                                        |
+    | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases -  **EMNLP 2019** 
+    | Christopher Clark, Mark Yatskar, Luke Zettlemoyer                                                       
+    | https://arxiv.org/abs/1909.03683                                                                        
 _`RUBi`
-    | RUBi: Reducing Unimodal Biases in Visual Question Answering  -  **NeurIPS 2019** |
-    | Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh      |
-    | https://arxiv.org/abs/1906.10169                                                 |
+    | RUBi: Reducing Unimodal Biases in Visual Question Answering  -  **NeurIPS 2019** 
+    | Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh      
+    | https://arxiv.org/abs/1906.10169                                                 
 
         .. raw:: html
             
@@ -155,25 +162,25 @@ _`RUBi`
             </details>
 
 _`SCR` 
-    | Self-Critical Reasoning for Robust Visual Question Answering -  **NeurIPS 2019** |
-    | Jialin Wu, Raymond J. Mooney                                                     |
-    | https://arxiv.org/abs/1905.09998                                                 |
+    | Self-Critical Reasoning for Robust Visual Question Answering -  **NeurIPS 2019** 
+    | Jialin Wu, Raymond J. Mooney                                                     
+    | https://arxiv.org/abs/1905.09998                                                 
 _`HINT`
-    | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded -  **ICCV 2019**           |
-    | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh |
-    | https://arxiv.org/abs/1902.03751                                                                                   |
+    | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded -  **ICCV 2019**           
+    | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh 
+    | https://arxiv.org/abs/1902.03751                                                                                   
 _`ActSeek`
-    | Actively Seeking and Learning from Live Data -  **CVPR 2019** |
-    | Damien Teney, Anton van den Hengel                            |
-    | https://arxiv.org/abs/1904.02865                              |
+    | Actively Seeking and Learning from Live Data -  **CVPR 2019** 
+    | Damien Teney, Anton van den Hengel                            
+    | https://arxiv.org/abs/1904.02865                              
 _`AdvReg`
-    | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization -  **NeurIPS 2018**                   |
-    | Sainandan Ramakrishnan, Aishwarya Agrawal, Stefan Lee                                                                         |
-    | https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization.pdf |
+    | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization -  **NeurIPS 2018**                   
+    | Sainandan Ramakrishnan, Aishwarya Agrawal, Stefan Lee                                                                         
+    | https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization.pdf 
 _`GVQA`
-    | Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering -  **CVPR 2018** |
-    | Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi                                      |
-    | https://arxiv.org/abs/1712.00377                                                                     |
+    | Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering -  **CVPR 2018** 
+    | Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi                                      
+    | https://arxiv.org/abs/1712.00377                                                                     
 
 
 
