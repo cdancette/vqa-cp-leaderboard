@@ -2,7 +2,7 @@
 VQA-CP  Leaderboard
 ===================
 
-A collections of papers about the VQA-CP dataset and their results.
+A collections of papers about the VQA-CP dataset and a benchmark / leaderboard of their results.
 VQA-CP_ is an out-of-distribution dataset for Visual Question Answering,
 which is designed to penalize models that rely on question biases to give an answer.
 
