@@ -172,10 +172,6 @@ _`SCR`
     | Self-Critical Reasoning for Robust Visual Question Answering -  **NeurIPS 2019** 
     | Jialin Wu, Raymond J. Mooney                                                     
     | https://arxiv.org/abs/1905.09998    
-_`GRL`
-    | Adversarial Regularization for Visual Question Answering:Strengths, Shortcomings, and Side Effects -  **NAACL HLT - Workshop paper **
-    | Gabriel Grand, Yonatan Belinkov
-    | https://arxiv.org/pdf/1906.08430.pdf
 _`HINT`
     | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded -  **ICCV 2019**           
     | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh 
@@ -184,6 +180,10 @@ _`ActSeek`
     | Actively Seeking and Learning from Live Data -  **CVPR 2019** 
     | Damien Teney, Anton van den Hengel                            
     | https://arxiv.org/abs/1904.02865                              
+_`GRL`
+    | Adversarial Regularization for Visual Question Answering:Strengths, Shortcomings, and Side Effects -  **NAACL HLT - Workshop on Shortcomings in Vision and Language (SiVL) **
+    | Gabriel Grand, Yonatan Belinkov
+    | https://arxiv.org/pdf/1906.08430.pdf
 _`AdvReg`
     | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization -  **NeurIPS 2018**                   
     | Sainandan Ramakrishnan, Aishwarya Agrawal, Stefan Lee                                                                         
