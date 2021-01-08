@@ -88,7 +88,7 @@ _`MUTANT`
     | MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering -  **EMNLP 2020** 
     | Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang
     | https://www.aclweb.org/anthology/2020.emnlp-main.63/
-
+    | code: https://github.com/tejas-gokhale/vqa_mutant
 _`CL`
     | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering   -  **EMNLP 2020** 
     | Zujie Liang, Weitao Jiang, Haifeng Hu, Jiaying Zhu                                                       
@@ -96,7 +96,8 @@ _`CL`
 _`RMFE`
     | Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies -  **NeurIPS 2020** 
     | Itai Gat, Idan Schwartz, Alexander Schwing, Tamir Hazan                                                         
-    | https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html                   
+    | https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html   
+    | code: https://github.com/itaigat/removing-bias-in-multi-modal-classifiers                
 _`Loss-Rescaling`
     | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** 
     | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
@@ -112,7 +113,8 @@ _`VGQE`
 _`CSS`
     | Counterfactual Samples Synthesizing for Robust Visual Question Answering -  **CVPR 2020** 
     | Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang                  
-    | https://arxiv.org/abs/2003.06576                                                          
+    | https://arxiv.org/abs/2003.06576    
+    | code: https://github.com/yanxinzju/CSS-VQA                                                      
 _`Semantic`
     | Estimating semantic structure for the VQA answer space  -  **Preprint 2020** 
     | Corentin Kervadec, Grigory Antipov, Moez Baccouche, Christian Wolf           
@@ -120,7 +122,7 @@ _`Semantic`
 _`Unshuffling`
     | Unshuffling Data for Improved Generalization -  **Preprint 2020** 
     | Damien Teney, Ehsan Abbasnejad, Anton van den Hengel              
-    | https://arxiv.org/abs/2002.11894                                  
+    | https://arxiv.org/abs/2002.11894                         
 
         .. raw:: html
 
@@ -152,7 +154,8 @@ _`CF-VQA`
 _`LMH`
     | Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases -  **EMNLP 2019** 
     | Christopher Clark, Mark Yatskar, Luke Zettlemoyer                                                       
-    | https://arxiv.org/abs/1909.03683                                                                        
+    | https://arxiv.org/abs/1909.03683     
+    | code: https://github.com/chrisc36/bottom-up-attention-vqa                                                                   
 _`RUBi`
     | RUBi: Reducing Unimodal Biases in Visual Question Answering  -  **NeurIPS 2019** 
     | Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh      
@@ -168,10 +171,12 @@ _`RUBi`
             
             </details>
 
+    | code: https://github.com/cdancette/rubi.bootstrap.pytorch
 _`SCR` 
     | Self-Critical Reasoning for Robust Visual Question Answering -  **NeurIPS 2019** 
     | Jialin Wu, Raymond J. Mooney                                                     
     | https://arxiv.org/abs/1905.09998    
+    | code: https://github.com/jialinwu17/self_critical_vqa
 _`HINT`
     | Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded -  **ICCV 2019**           
     | Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh 
@@ -184,14 +189,17 @@ _`GRL`
     | Adversarial Regularization for Visual Question Answering:Strengths, Shortcomings, and Side Effects -  **NAACL HLT - Workshop on Shortcomings in Vision and Language (SiVL) **
     | Gabriel Grand, Yonatan Belinkov
     | https://arxiv.org/pdf/1906.08430.pdf
+    | code: https://github.com/gabegrand/adversarial-vqa
 _`AdvReg`
     | Overcoming Language Priors in Visual Question Answering with Adversarial Regularization -  **NeurIPS 2018**                   
     | Sainandan Ramakrishnan, Aishwarya Agrawal, Stefan Lee                                                                         
     | https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization.pdf 
+    | code: 
 _`GVQA`
     | Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering -  **CVPR 2018** 
     | Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi                                      
-    | https://arxiv.org/abs/1712.00377                                                                     
+    | https://arxiv.org/abs/1712.00377
+    | code: https://github.com/AishwaryaAgrawal/GVQA                                                              
 
 
 
