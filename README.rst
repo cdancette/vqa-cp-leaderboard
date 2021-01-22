@@ -40,6 +40,8 @@ In grey are highlighted best results on architectures without pre-training.
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | Loss-Rescaling_ | UpDown + LMH_        | Preprint 2020           | 53.26     | 72.82      | 48.00      | 44.46      |            |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
+| ESR_            | UpDown               | ACL 2020                | 48.9      |            |            |            |            |
++-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | GradSup_        | Unshuffling_         | ECCV 2020               | 46.8      | 64.5       | 15.3       | 45.9       | **Valset** |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | VGQE_           | S-MRL                | ECCV 2020               | 50.11     | 66.35      | 27.08      | 46.77      | No valset  |
@@ -102,6 +104,10 @@ _`Loss-Rescaling`
     | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** 
     | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
     | https://arxiv.org/abs/2010.16010                                                                      
+_`ESR` (Embarrassingly Simple Regularizer)
+    | A Negative Case Analysis of Visual Grounding Methods for VQA
+    | Robik Shrestha, Kushal Kafle, Christopher Kanan
+    | https://www.aclweb.org/anthology/2020.acl-main.727.pdf
 _`GradSup`
     | Learning what makes a difference from counterfactual examples and gradient supervision -  **ECCV 2020** 
     | Damien Teney, Ehsan Abbasnedjad, Anton van den Hengel                                                   
