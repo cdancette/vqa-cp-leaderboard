@@ -105,8 +105,8 @@ _`Loss-Rescaling`
     | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** 
     | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
     | https://arxiv.org/abs/2010.16010                                                                      
-_`ESR` (Embarrassingly Simple Regularizer) - **ACL 2020**
-    | A Negative Case Analysis of Visual Grounding Methods for VQA
+_`ESR` (Embarrassingly Simple Regularizer)
+    | A Negative Case Analysis of Visual Grounding Methods for VQA - **ACL 2020**
     | Robik Shrestha, Kushal Kafle, Christopher Kanan
     | https://www.aclweb.org/anthology/2020.acl-main.727.pdf
 _`GradSup`
