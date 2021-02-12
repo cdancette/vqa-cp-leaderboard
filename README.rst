@@ -26,7 +26,7 @@ Notes:
 VQA-CP v2
 ***********
 
-In grey are highlighted best results on architectures without pre-training.
+In bold are highlighted best results on architectures without pre-training.
 
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 |      Name       |      Base Arch.      |       Conference        |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
