@@ -38,6 +38,8 @@ In grey are highlighted best results on architectures without pre-training.
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | RMFE_           | UpDown + LMH_        | NeurIPS 2020            | 54.55     | 74.03      | 49.16      | 45.82      | No Valset  |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
+| RandImg_        | UpDown               | NeurIPS 2020            | 55.37     | 83.89      | 41.60      | 44.20      | Valset     |
++-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | Loss-Rescaling_ | UpDown + LMH_        | Preprint 2020           | 53.26     | 72.82      | 48.00      | 44.46      |            |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | ESR_            | UpDown               | ACL 2020                | 48.9      |            |            |            |            |
@@ -99,7 +101,11 @@ _`RMFE`
     | Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies -  **NeurIPS 2020** 
     | Itai Gat, Idan Schwartz, Alexander Schwing, Tamir Hazan                                                         
     | https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html   
-    | code: https://github.com/itaigat/removing-bias-in-multi-modal-classifiers                
+    | code: https://github.com/itaigat/removing-bias-in-multi-modal-classifiers             
+_`RandImg`
+    | On the Value of Out-of-Distribution Testing:An Example of Goodhart’s Law
+    | Damien Teney, Kushal Kafle, Robik Shrestha, Ehsan Abbasnejad, Christopher Kanan, Anton van den Hengel
+    | https://arxiv.org/pdf/2005.09241.pd
 _`Loss-Rescaling`
     | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** 
     | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
