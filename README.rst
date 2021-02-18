@@ -5,6 +5,7 @@ VQA-CP  Leaderboard
 A collections of papers about the VQA-CP dataset and a benchmark / leaderboard of their results.
 VQA-CP_ is an out-of-distribution dataset for Visual Question Answering,
 which is designed to penalize models that rely on question biases to give an answer.
+You can download VQA-CP annotations here : https://www.cc.gatech.edu/grads/a/aagrawal307/vqa-cp/
 
 Notes:
 
@@ -25,7 +26,7 @@ Notes:
 VQA-CP v2
 ***********
 
-In grey are highlighted best results on architectures without pre-training.
+In bold are highlighted best results on architectures without pre-training.
 
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 |      Name       |      Base Arch.      |       Conference        |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
@@ -42,7 +43,7 @@ In grey are highlighted best results on architectures without pre-training.
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | Loss-Rescaling_ | UpDown + LMH_        | Preprint 2020           | 53.26     | 72.82      | 48.00      | 44.46      |            |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
-| ESR_            | UpDown               | ACL 2020                | 48.9      |            |            |            |            |
+| ESR_            | UpDown               | ACL 2020                | 48.9      |  69.8      | 11.3       | 47.8       |            |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | GradSup_        | Unshuffling_         | ECCV 2020               | 46.8      | 64.5       | 15.3       | 45.9       | **Valset** |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
@@ -111,7 +112,7 @@ _`Loss-Rescaling`
     | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
     | https://arxiv.org/abs/2010.16010                                                                      
 _`ESR` (Embarrassingly Simple Regularizer)
-    | A Negative Case Analysis of Visual Grounding Methods for VQA
+    | A Negative Case Analysis of Visual Grounding Methods for VQA - **ACL 2020**
     | Robik Shrestha, Kushal Kafle, Christopher Kanan
     | https://www.aclweb.org/anthology/2020.acl-main.727.pdf
 _`GradSup`
