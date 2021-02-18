@@ -23,6 +23,9 @@ Notes:
   from a part of training set.
 
 
+You can read an overview of some of those bias-reduction methods here: https://cdancette.fr/2020/11/21/overview-bias-reductions-vqa/
+
+
 VQA-CP v2
 ***********
 
