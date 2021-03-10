@@ -109,7 +109,7 @@ _`RMFE`
 _`RandImg`
     | On the Value of Out-of-Distribution Testing:An Example of Goodhart’s Law
     | Damien Teney, Kushal Kafle, Robik Shrestha, Ehsan Abbasnejad, Christopher Kanan, Anton van den Hengel
-    | https://arxiv.org/pdf/2005.09241.pd
+    | https://arxiv.org/abs/2005.09241
 _`Loss-Rescaling`
     | Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View - **Preprint 2020** 
     | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Qi Tian                                                     
