@@ -34,6 +34,8 @@ In bold are highlighted best results on architectures without pre-training.
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | Name            | Base Arch.           | Conference              | All       | Yes/No     | Numbers    | Other      | Validation |
 +=================+======================+=========================+===========+============+============+============+============+
+| GGE-DQ          | UpDown               | ICCV 2021               | 57.32     | 87.04      | 27.75      | 49.59      |            |
++-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | AdaVQA_         | UpDown               | IJCAI 2021              | 54.67     | 72.47      | 53.81      | 45.58      | No Valset  |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | DecompLR_       | UpDown               | AAAI 2020               | 48.87     | 70.99      | 18.72      | 45.57      | No Valset  |
@@ -97,6 +99,10 @@ Papers
 
 ..    <br />
 
+_`GGE-DQ`
+    | Greedy Gradient Ensemble for Robust Visual Question Answering
+    | Xinzhe Han, Shuhui Wang, Chi Su, Qingming Huang, Qi Tian
+    | https://arxiv.org/pdf/2107.12651.pdf
 _`DecompLR`
     | Overcoming language priors in vqa via decomposed linguistic representations
     | Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia, Qi Wu
