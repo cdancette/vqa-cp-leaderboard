@@ -32,8 +32,12 @@ VQA-CP v2
 In bold are highlighted best results on architectures without pre-training.
 
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
-|      Name       |      Base Arch.      |       Conference        |    All    |   Yes/No   |  Numbers   |   Other    | Validation |
+| Name            | Base Arch.           | Conference              | All       | Yes/No     | Numbers    | Other      | Validation |
 +=================+======================+=========================+===========+============+============+============+============+
+| AdaVQA_         | UpDown               | IJCAI 2021              | 54.67     | 72.47      | 53.81      | 45.58      | No Valset  |
++-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
+| DecompLR_       | UpDown               | AAAI 2020               | 48.87     | 70.99      | 18.72      | 45.57      | No Valset  |
++-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | MUTANT_         | LXMERT               | EMNLP 2020              | 69.52     | 93.15      | 67.17      | 57.78      | No valset  |
 +-----------------+----------------------+-------------------------+-----------+------------+------------+------------+------------+
 | MUTANT_         | UpDown               | EMNLP 2020              | **61.72** | **88.90**  | **49.68**  | **50.78**  | No valset  |
@@ -93,6 +97,14 @@ Papers
 
 ..    <br />
 
+_`DecompLR`
+    | Overcoming language priors in vqa via decomposed linguistic representations
+    | Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia, Qi Wu
+    | https://ojs.aaai.org/index.php/AAAI/article/view/6776
+_`AdaVQA`
+    | AdaVQA: Overcoming Language Priors with Adapted Margin Cosine Loss
+    | Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Feng Ji, Ji Zhang, Alberto Del Bimbo
+    | https://arxiv.org/pdf/2105.01993.pdf
 
 _`MUTANT`
     | MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering -  **EMNLP 2020** 
